@@ -1,0 +1,3 @@
+Structural Markup	- The elements that you can use to describe both headings and paragraphs
+Semantic Markup   	- More information about a particular piece of information (quote, acronym,...)
+
