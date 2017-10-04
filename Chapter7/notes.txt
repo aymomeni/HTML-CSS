@@ -1,0 +1,4 @@
+Forms Notes:
+
+For full security the server needs to be set up to communicate with users' brwosers using
+SSL - Secure Socket Layer (SSL).
