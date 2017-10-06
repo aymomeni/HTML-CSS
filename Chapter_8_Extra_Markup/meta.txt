@@ -1,0 +1,12 @@
+Meta element:
+
+-not visible
+-tells search egines about one's page
+       - who created it
+       - if it's time sensitive (page can expire?)
+-no closing tag for meta
+-name attribute sets the property of the page
+-content attribute sets the value of the property?
+-description -> describing the page you have created (used by search engines)
+-keywords -> list of comma seperated words that are used by the search engine (not as much today)
+-robots -> sets if search engines should add this page to their search results or not
